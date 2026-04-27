@@ -1,6 +1,7 @@
 <!-- Portfolio Banner -->
+
 <div align="center">
-  <img src="https://alnaasan.de/assets/1584542497517.jpg" alt="Kaddour Alnaasan" width="200"/>
+  <img src="./header.png" alt="Code. Solve. Impact. Portfolio Header" style="max-width:100%; border-radius: 12px; box-shadow: 0 4px 24px #00000044;"/>
 </div>
 
 
