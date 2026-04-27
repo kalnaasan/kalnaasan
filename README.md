@@ -3,47 +3,61 @@
   <img src="https://alnaasan.de/assets/1584542497517.jpg" alt="Kaddour Alnaasan" width="200"/>
 </div>
 
-# Kaddour Alnaasan
 
-**IT-Administrator & Master Informatik-Student**  
-Frankfurt am Main, Germany
-
----
-
-## Über mich
-
-Ich bin ein leidenschaftlicher IT-Administrator und Softwareentwickler mit Schwerpunkt auf Java, Angular, Spring Boot, JavaScript und TypeScript. Mit Erfahrung in Webentwicklung, Testautomatisierung und innovativen Softwarelösungen biete ich vielseitige Kompetenzen für komplexe technische Herausforderungen.
+<h1 align="center">👋 Hi, ich bin <span style="color:#c56a90">Kaddour Alnaasan</span></h1>
+<p align="center"><b>IT-Administrator & Master Informatik-Student</b><br>Frankfurt am Main, Germany</p>
 
 ---
 
-## Skills & Technologien
+## 🧑‍💻 Über mich
 
-**Programmiersprachen & Frameworks:**
-- Java (75%)
-- Angular (80%)
-- Spring Boot (70%)
-- Python (40%)
-- JavaScript (85%)
-- TypeScript (80%)
-
-**Testautomatisierung:**
-- Selenium Grid Server (65%)
-- Robot Framework (80%)
-- Maven (85%)
-
-**Datenbanken & EDV:**
-- Oracle Database (80%)
-- Microsoft SQL-Server (75%)
-- MS Office (90%)
-
-**Sprachkenntnisse:**
-- Deutsch (C1)
-- Englisch (B1)
-- Arabisch (Muttersprache)
+<blockquote>
+<b>Leidenschaftlicher IT-Administrator und Softwareentwickler</b> mit Schwerpunkt auf <b>Java</b>, <b>Angular</b>, <b>Spring Boot</b>, <b>JavaScript</b> und <b>TypeScript</b>.<br>
+Mit Erfahrung in <b>Webentwicklung</b>, <b>Testautomatisierung</b> und <b>innovativen Softwarelösungen</b> biete ich vielseitige Kompetenzen für komplexe technische Herausforderungen.
+</blockquote>
 
 ---
 
-## Berufserfahrung
+
+## 🚀 Skills & Technologien
+
+<b>Programmiersprachen & Frameworks:</b>
+<ul>
+  <li>☕ <b>Java</b> (75%)</li>
+  <li>🅰️ <b>Angular</b> (80%)</li>
+  <li>🌱 <b>Spring Boot</b> (70%)</li>
+  <li>🐍 <b>Python</b> (40%)</li>
+  <li>✨ <b>JavaScript</b> (85%)</li>
+  <li>🟦 <b>TypeScript</b> (80%)</li>
+</ul>
+
+<b>Testautomatisierung:</b>
+<ul>
+  <li>🧪 <b>Selenium Grid Server</b> (65%)</li>
+  <li>🤖 <b>Robot Framework</b> (80%)</li>
+  <li>📦 <b>Maven</b> (85%)</li>
+</ul>
+
+<b>Datenbanken & EDV:</b>
+<ul>
+  <li>🗄️ <b>Oracle Database</b> (80%)</li>
+  <li>🗃️ <b>Microsoft SQL-Server</b> (75%)</li>
+  <li>📊 <b>MS Office</b> (90%)</li>
+</ul>
+
+<b>Sprachkenntnisse:</b>
+<ul>
+  <li>🇩🇪 <b>Deutsch</b> (C1)</li>
+  <li>🇬🇧 <b>Englisch</b> (B1)</li>
+  <li>🇸🇾 <b>Arabisch</b> (Muttersprache)</li>
+</ul>
+
+---
+
+---
+
+
+## 💼 Berufserfahrung
 
 **IT-Administrator**  
 Belevista-Film, Frankfurt am Main (03/2023 – heute)  
@@ -67,7 +81,8 @@ Datenpflege, Berichterstattung
 
 ---
 
-## Ausbildung
+
+## 🎓 Ausbildung
 
 **Masterstudium Informatik**  
 Frankfurt University of Applied Sciences (09/2023 – heute)
@@ -93,7 +108,8 @@ Universität von Aleppo (09/2011 – 09/2014, kriegsbedingt abgebrochen)
 
 ---
 
-## Projekte
+
+## 🛠️ Projekte
 
 **Reporting-Portal Testautomation**  
 Java, Selenium, Robot Framework  
@@ -117,7 +133,8 @@ Gestaltung und Entwicklung meiner persönlichen Portfolio-Website.
 
 ---
 
-## Kontakt & Social Media
+
+## 📫 Kontakt & Social Media
 
 
 - 📧 [Kaddour@alnaasan.de](mailto:Kaddour@alnaasan.de)
