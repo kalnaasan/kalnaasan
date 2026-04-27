@@ -1,7 +1,7 @@
 <!-- Portfolio Banner -->
 
 <div align="center">
-  <img src="./header.png" alt="Code. Solve. Impact. Portfolio Header" style="max-width:100%; border-radius: 12px; box-shadow: 0 4px 24px #00000044;"/>
+  <img src="./header-image.png" alt="Code. Solve. Impact. Portfolio Header" style="max-width:100%; border-radius: 12px; box-shadow: 0 4px 24px #00000044;"/>
 </div>
 
 
@@ -211,124 +211,6 @@ Gestaltung und Entwicklung meiner persönlichen Portfolio-Website.
     <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=To%20seek%20greatness%20is%20the%20only%20righteous%20vengeance.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!--Contact Section--> 
 
