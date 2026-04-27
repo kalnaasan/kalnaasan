@@ -119,10 +119,17 @@ Gestaltung und Entwicklung meiner persönlichen Portfolio-Website.
 
 ## Kontakt & Social Media
 
--- 📧 [Kaddour@alnaasan.de](mailto:Kaddour@alnaasan.de)
--- 📞 [+49 123 456 7890](tel:+491234567890)
--- 🌍 Frankfurt am Main, Deutschland
--- <a href="https://www.linkedin.com/in/kalnaasan/">LinkedIn</a> | <a href="https://github.com/kalnaasan">GitHub</a> | <a href="https://xing.com/">Xing</a>
+
+- 📧 [Kaddour@alnaasan.de](mailto:Kaddour@alnaasan.de)
+- 📞 [+49 123 456 7890](tel:+491234567890)
+- 🌍 Frankfurt am Main, Deutschland
+- <a href="https://www.linkedin.com/in/kalnaasan/">LinkedIn</a> | <a href="https://github.com/kalnaasan">GitHub</a> | <a href="https://xing.com/">Xing</a>
+
+<div align="center" style="margin: 20px 0;">
+  <a href="https://buymeacoffee.com/kalnaasan" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" height="50" />
+  </a>
+</div>
 
 ---
 
