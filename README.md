@@ -1,62 +1,134 @@
-<!--Banner-->
-![Kiran1689 Banner Image](./banner.png)
-
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<!-- Portfolio Banner -->
+<div align="center">
+  <img src="https://alnaasan.de/assets/1584542497517.jpg" alt="Kaddour Alnaasan" width="200"/>
 </div>
 
-<!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
-*Digital Craftsman (Developer / Programmer)*
-<br /> 
+# Kaddour Alnaasan
 
-<!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
-
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kirannaragund.com) for more details about me.
-<!--End Intro-->
-
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
-</p>
+**IT-Administrator & Master Informatik-Student**  
+Frankfurt am Main, Germany
 
 ---
 
+## Über mich
 
-<!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-<br />
+Ich bin ein leidenschaftlicher IT-Administrator und Softwareentwickler mit Schwerpunkt auf Java, Angular, Spring Boot, JavaScript und TypeScript. Mit Erfahrung in Webentwicklung, Testautomatisierung und innovativen Softwarelösungen biete ich vielseitige Kompetenzen für komplexe technische Herausforderungen.
 
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
-</ul>
-  
-<h3 align="left">Latest Blog Posts</h3>
-<ul align="left">
-  <li><a href="https://dev.to/dev_kiran/storyblok-mcp-server-let-ai-agents-manage-your-content-3jaa">🔥Storyblok MCP Server: Let AI Agents Manage Your Content 🤖</a></li>
-  <li><a href="https://dev.to/dev_kiran/pulstack-deploy-your-static-site-to-s3-or-github-in-1-min-5cin">🔥Pulstack: Deploy your static site to S3 or GitHub in <1 min🙂</a></li>
-  <li><a href="https://dev.to/dev_kiran/i-tried-out-qodos-new-embed-model-qodo-embed-1-40h5">I Tried Out Qodo's New Embed Model Qodo-Embed-1🤯</a></li>
-</ul>
-<br />
-<br />
-<br />
-<br />
+---
+
+## Skills & Technologien
+
+**Programmiersprachen & Frameworks:**
+- Java (75%)
+- Angular (80%)
+- Spring Boot (70%)
+- Python (40%)
+- JavaScript (85%)
+- TypeScript (80%)
+
+**Testautomatisierung:**
+- Selenium Grid Server (65%)
+- Robot Framework (80%)
+- Maven (85%)
+
+**Datenbanken & EDV:**
+- Oracle Database (80%)
+- Microsoft SQL-Server (75%)
+- MS Office (90%)
+
+**Sprachkenntnisse:**
+- Deutsch (C1)
+- Englisch (B1)
+- Arabisch (Muttersprache)
+
+---
+
+## Berufserfahrung
+
+**IT-Administrator**  
+Belevista-Film, Frankfurt am Main (03/2023 – heute)  
+Software-Entwicklung (Java & Angular), Planung neuer Anforderungen, tägliche IT-Aufgaben
+
+**Duales Studium (Informatik)**  
+Cofinpro AG, Frankfurt am Main (10/2019 – 03/2021)  
+Software-Entwicklung (Java), REST-Schnittstellen, JPA-Entities, Meetings
+
+**Praktikant**  
+Union Investment, Frankfurt am Main (07/2017 – 09/2019)  
+Webentwicklung (SharePoint, Java), Testautomation für Reporting-Portale
+
+**Humanitäre Arbeit**  
+Save the Children, Antakya/Türkei (05/2015)  
+Datenpflege, Berichterstattung
+
+**Mitarbeiter**  
+Danish Refugee Council, Antakya/Türkei (02/2015 – 08/2015)  
+Datenpflege, Berichterstattung
+
+---
+
+## Ausbildung
+
+**Masterstudium Informatik**  
+Frankfurt University of Applied Sciences (09/2023 – heute)
+
+**Bachelorstudium Informatik**  
+Frankfurt University of Applied Sciences (04/2021 – 08/2023)
+
+**Studium der Informatik**  
+Hochschule Darmstadt (10/2019 – 03/2021)
+
+**DSH-Kurs**  
+Frankfurt University of Applied Sciences (04/2019 – 08/2019) – DSH2-Niveau
+
+**Deutsch Sprachkurs**  
+Goethe-Universität Frankfurt (04/2017 – 07/2018) – DSH1-Niveau
+
+**Studium der Informatik**  
+Universität von Aleppo (09/2011 – 09/2014, kriegsbedingt abgebrochen)
+
+**Weiterbildungen & Zertifikate:**
+- Seminar in freiwilliger Mitarbeit in Krisengebieten (IOM, Aleppo/Syrien, 05/2014)
+- Computerseminare (New Horizons-Institut, Aleppo/Syrien, 09/2014 – 12/2014)
+
+---
+
+## Projekte
+
+**Reporting-Portal Testautomation**  
+Java, Selenium, Robot Framework  
+Entwicklung eines Testautomations-Frameworks für Reporting-Portale bei Union Investment.
+
+**REST-API Entwicklung**  
+Java, Spring Boot, JPA  
+Entwicklung einer REST-API mit Sicherheitsfeatures und Swagger-Dokumentation (Cofinpro AG).
+
+**SharePoint-basierte Webentwicklung**  
+JavaScript, SharePoint, HTML/CSS  
+Entwicklung und Anpassung von SharePoint-Lösungen (Union Investment).
+
+**Angular-basiertes Dashboard**  
+Angular, TypeScript, Tailwind CSS  
+Entwicklung eines modernen Dashboards mit Echtzeit-Datenvisualisierung (Belevista-Film).
+
+**Portfolio Website**  
+Angular, Tailwind CSS, Responsive Design  
+Gestaltung und Entwicklung meiner persönlichen Portfolio-Website.
+
+---
+
+## Kontakt & Social Media
+
+- 📧 [Kaddour@alnaasan.de](mailto:Kaddour@alnaasan.de)
+- 📞 [+49 123 456 7890](tel:+491234567890)
+- 🌍 Frankfurt am Main, Deutschland
+- [LinkedIn](https://www.linkedin.com/in/kalnaasan/)
+- [GitHub](https://github.com/kalnaasan)
+- [Xing](https://xing.com/)
+
+---
+
+© 2026 Kaddour Alnaasan. Alle Rechte vorbehalten.
 
 
 <!--Trophies Section-->   
